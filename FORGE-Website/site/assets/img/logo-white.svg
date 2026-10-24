@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="295 195 1210 445"><defs>
+<clipPath id="clipw"><path d="M305 458 L565 332 L565 398 Q565 418 548 428 L408 490 L408 560 Q408 575 392 583 L305 630 Z"/></clipPath>
+<radialGradient id="gloww" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+</defs>
+<path fill="#E5E7EB" d="M305 352 Q305 332 325 325 L608 203 L608 262 Q608 282 590 292 L305 422 Z"/>
+<path fill="#FFFFFF" d="M305 458 L565 332 L565 398 Q565 418 548 428 L408 490 L408 560 Q408 575 392 583 L305 630 Z"/>
+<path fill="#F97316" d="M305 442 L305 428 L372 390 L520 338 L440 376 Z"/><g fill="#FFFFFF">
+<rect x="655" y="338" width="34" height="154"/><rect x="655" y="338" width="135" height="34"/><rect x="655" y="400" width="110" height="32"/>
+
+<ellipse cx="875" cy="415" rx="53" ry="60" fill="none" stroke="#FFFFFF" stroke-width="34"/>
+<rect x="1002" y="338" width="34" height="154"/>
+<path d="M1019 355 H1085 A33 33 0 0 1 1085 421 H1019" fill="none" stroke="#FFFFFF" stroke-width="34"/>
+<polygon points="1082,432 1120,432 1152,492 1112,492"/>
+<path d="M1319.5 380.6 A58 60 0 1 0 1330 415" fill="none" stroke="#FFFFFF" stroke-width="34"/>
+<rect x="1272" y="398" width="75" height="34"/>
+<rect x="1375" y="338" width="34" height="154"/><rect x="1375" y="338" width="140" height="34"/><rect x="1375" y="400" width="125" height="32"/><rect x="1375" y="458" width="140" height="34"/>
+</g></svg>
