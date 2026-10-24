@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="250 170 420 500"><defs>
+<clipPath id="clipi"><path d="M305 458 L565 332 L565 398 Q565 418 548 428 L408 490 L408 560 Q408 575 392 583 L305 630 Z"/></clipPath>
+<radialGradient id="glowi" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+</defs>
+<path fill="#1F2430" d="M305 352 Q305 332 325 325 L608 203 L608 262 Q608 282 590 292 L305 422 Z"/>
+<path fill="#111827" d="M305 458 L565 332 L565 398 Q565 418 548 428 L408 490 L408 560 Q408 575 392 583 L305 630 Z"/>
+<path fill="#F97316" d="M305 442 L305 428 L372 390 L520 338 L440 376 Z"/>
+<g clip-path="url(#clipi)"><ellipse cx="440" cy="458" rx="62" ry="30" transform="rotate(-24 440 458)" opacity="0.85" fill="url(#glowi)"/></g></svg>
